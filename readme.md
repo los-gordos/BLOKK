@@ -1,4 +1,8 @@
-![BLOKK font](https://blokkfont-losgordos.netdna-ssl.com/git-example.png "BLOKK font example")
+# BLOKK Font
+
+[![license](images/wtfpl-badge-4.png)](http://www.wtfpl.net)
+
+![BLOKK font](images/mockup.png "BLOKK font example by Hasin Hayder")
 
 > BLOKK font? I though you said cockfont, well then I’m not interested...
 
